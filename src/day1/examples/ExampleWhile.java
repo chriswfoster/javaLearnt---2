@@ -9,7 +9,7 @@ public class ExampleWhile {
 			System.out.println("x = " + x);
 //			x++;
 //			x = x + 1;
-			x += 1;
+			x = 1;
 		}
 	}
 
