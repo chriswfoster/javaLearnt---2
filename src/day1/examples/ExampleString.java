@@ -4,7 +4,7 @@ public class ExampleString {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String x = "James Dean";
+//		String x = "James Dean";
 		
 //		System.out.println(x.toUpperCase());
 //		System.out.println(x.toLowerCase());
